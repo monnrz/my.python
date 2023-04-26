@@ -1,5 +1,3 @@
-# project created on the 26th april 2023
-
 import math
 
 username = input("What is your name? ")
